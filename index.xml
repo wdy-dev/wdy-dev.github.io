@@ -8,12 +8,12 @@
     <language>en</language>
     <lastBuildDate>Wed, 12 Jul 2023 21:59:38 -0700</lastBuildDate><atom:link href="https://deyuwu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>https://deyuwu.github.io/posts/first/</link>
+      <title>Hello World</title>
+      <link>https://deyuwu.github.io/posts/helloworld/</link>
       <pubDate>Wed, 12 Jul 2023 21:59:38 -0700</pubDate>
       
-      <guid>https://deyuwu.github.io/posts/first/</guid>
-      <description></description>
+      <guid>https://deyuwu.github.io/posts/helloworld/</guid>
+      <description>Welcome to my blog First off, I am human who occasionally wonders if our world might be more akin to a computer program than we realize. Don&amp;rsquo;t be alarmed, it&amp;rsquo;s merely a philosophical pondering, not a declaration of eccentricity. I can imagine a day when AI might start write its own blog. Yet, let&amp;rsquo;s not stray too far into the AI. The matter at hand is my own foray into blogging, inspired by Lilian Weng’s blog.</description>
     </item>
     
     
