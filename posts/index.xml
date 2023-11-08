@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Deyu Decoded</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Jul 2023 21:59:38 -0700</lastBuildDate><atom:link href="https://deyuwu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Nov 2023 23:29:59 -0800</lastBuildDate><atom:link href="https://deyuwu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on OpenAI DevDay</title>
+      <link>https://deyuwu.github.io/posts/openaidevdaynotes/</link>
+      <pubDate>Tue, 07 Nov 2023 23:29:59 -0800</pubDate>
+      
+      <guid>https://deyuwu.github.io/posts/openaidevdaynotes/</guid>
+      <description>OpenAI DevDay One sentence summary GPT-4 Turbo with 128K context Cheaper, longer, more accurate for devs
+Function call improved. but no exact numbers.
+Assistants API → (build agency into your app) Access it from your App (language based data analysis app, a coding assistant, an AI-powered vacation planner, a voice-controlled DJ, a smart visual canvas)
+Retrieval → kills embedding Code interpreter (no internet container) function calling Understand more: https://platform.openai.com/docs/assistants/overview
+Custom GPTs (agency) Access it from ChatGPT.</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://deyuwu.github.io/posts/helloworld/</link>
